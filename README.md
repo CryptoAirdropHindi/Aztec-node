@@ -1,5 +1,3 @@
-# Simplified-Aztec-Alpha-Testnet-Guide-CLI-Interface-
-
 
 
 # To make Installation easier, make sure to Navigate into home directory
